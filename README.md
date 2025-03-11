@@ -1,6 +1,5 @@
 # Olá, eu sou a Sara Cristina!💙
 
-Sou apaixonada por tecnologia e inovação! Atualmente estudo **Sistemas de Informação** e adoro compartilhar conhecimento sobre desenvolvimento, análise de sistemas e tecnologia em geral.
 
 <div>
   <a href="https://github.com/SarinhaCri">
