@@ -1,13 +1,17 @@
-# 🌟 Olá, eu sou a Sara Cristina! 👋
+# Olá, eu sou a Sara Cristina! 💙
 
-Sou apaixonada por tecnologia e inovação! Atualmente estudo **Sistemas de Informação** e adoro compartilhar conhecimento sobre desenvolvimento, análise de sistemas e tecnologia em geral.
+Sou estudante de Sistemas de Informação e apaixonada por tecnologia e inovação. Tenho experiência em desenvolvimento, análise de sistemas e dados, e gosto de transformar desafios em soluções eficientes.
+
+Atualmente, estou sempre buscando aprimorar minhas habilidades em JavaScript, Python, C++ e desenvolvimento web (HTML, CSS, JS). Além disso, adoro compartilhar conhecimento e explorar novas tecnologias para impulsionar projetos inovadores. 
+
 
 <div>
   <a href="https://github.com/SarinhaCri">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarinhaCri&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarinhaCri&layout=compact&langs_count=16&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarinhaCri&layout=compact&langs_count=6&theme=radical"/>
   </a>
 </div>
+
+**Sempre aprendendo e explorando novas tecnologias!** 🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sara-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
