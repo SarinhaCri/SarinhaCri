@@ -24,7 +24,7 @@ Atualmente, estou sempre buscando aprimorar minhas habilidades em JavaScript, Py
 
 ### 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarinhacri)
-[![E-mail](https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/sara-cristina-viana-rocha-432707252)
+[![E-mail](https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.crys2002@gmail.com)
 
 
